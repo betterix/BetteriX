@@ -1,90 +1,60 @@
-# BetteriX
+<h1 align="center">Hi, I'm Zsolt 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Infrastructure+Automation;CI%2FCD+%7C+GitOps;Cloud+Operations+%7C+Reliability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%26+Infrastructure+Automation;Linux+%7C+AWS" alt="Typing SVG" />
 </p>
-
-> I build the systems that make software delivery faster, safer, and more reliable.
 
 <p align="center">
-  <a href="https://github.com/betterix">
-    <img src="https://img.shields.io/badge/GitHub-betterix-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://github.com/betterix?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge" alt="Explore repositories" />
-  </a>
+  Final-year Informatics Engineering student at the University of Debrecen 🇭🇺<br/>
+  Sysadmin background · DevOps bootcamp graduate
 </p>
 
-## About me
+## 🧭 About me
 
-I’m a DevOps-focused engineer working on automation, infrastructure, and delivery workflows that reduce bottlenecks and improve operational reliability.
+I started with system administration in high school and moved into DevOps because I like
+infrastructure that is automated, versioned and repeatable. I learn by building and running
+things on my own server.
 
-My focus is on building repeatable systems that help teams move quickly without sacrificing stability, security, or observability.
+I'm looking for a **junior DevOps / cloud / infrastructure role or internship**.
 
-- ✅ Infrastructure as Code
-- ✅ CI/CD pipelines
-- ✅ Container orchestration
-- ✅ Automation and tooling
-- ✅ Monitoring and reliability
+## 🔧 What I do
 
-## What I do
+- Build CI/CD pipelines
+- Containerize apps and work with Kubernetes
+- Write infrastructure as code
+- Work with Linux servers and cloud (AWS)
+- Scan and harden container images
+- Contribute to open source when I can
 
-- Design and automate infrastructure with reusable, versioned workflows
-- Build CI/CD pipelines that make deployments fast and dependable
-- Manage containerized workloads and modern deployment patterns
-- Improve developer experience through automation and safe operational practices
-- Create tooling to reduce manual work and eliminate repetitive tasks
-- Monitor systems and improve reliability with clear observability and alerting
+## 🛠️ Tech
 
-## Core stack
+**Using**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F172A?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## My approach
+**Learning next**
 
-I believe good DevOps work is not just about tools — it is about creating systems that are:
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-- repeatable
-- observable
-- secure by default
-- easy to maintain
-- built for scale
+## 🎓 Background
 
-I care about automation that reduces manual effort, improves delivery confidence, and helps teams focus on creating value instead of fighting operational issues.
+- B.Sc. Informatics Engineering, University of Debrecen (final year)
+- System administrator qualification (high school)
+- DevOps bootcamp (EPAM-affiliated): Python, Linux, Docker, Kubernetes, CI/CD, AWS, Terraform, Agile/SDLC
 
-## Current focus
+## 📫 Contact
 
-- Infrastructure automation and standardized environments
-- CI/CD optimization and delivery reliability
-- Kubernetes and container lifecycle management
-- Cloud-native automation patterns
-- Monitoring, alerting, and resilience strategies
-- Developer workflow improvements through tooling
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betterix&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-</p>
-
-## Connect
-
-If you’re working on infrastructure, automation, cloud platforms, platform engineering, or reliable software delivery, I’d be happy to connect.
-
-- GitHub: [@betterix](https://github.com/betterix)
-- Repositories: [Explore](https://github.com/betterix?tab=repositories)
-
-```text
-Automate the routine. Strengthen the system. Ship with confidence.
-```
+<a href="https://www.linkedin.com/in/zsolt-szab%C3%B3-513413319/">
+  <img src="https://img.shields.io/badge/LinkedIn-Zsolt_Szabó-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:szabozsolt430@gmail.com">
+  <img src="https://img.shields.io/badge/Email-szabozsolt430@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
